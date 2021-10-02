@@ -21,8 +21,8 @@
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
-<a href="https://github.com/Wonxenshu/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Wonxen&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
-<a href="https://github.com/Wonxenshu/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
+<a href="https://github.com/Wonxenshu/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Wonxenshu&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/Wonxenshu/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxenshu&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
 
