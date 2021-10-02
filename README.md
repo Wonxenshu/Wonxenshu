@@ -26,4 +26,4 @@
 </p>
 
 
-<a[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152)](https://discord.com/users/545976310342746152)/></a>
+<a [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152)](https://discord.com/users/545976310342746152) /></a>
