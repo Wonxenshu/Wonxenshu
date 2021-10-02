@@ -17,7 +17,7 @@
 <a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxenshu" alt="Wonxen" /> </p>
 
 
 
