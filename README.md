@@ -3,14 +3,14 @@
 2019 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyoruz Da. <br>
 </p>
 
-### Kullandığım Programlar Ve Yazılım Dilleri :
+### Program ve Diller :
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" />
 <br />
-<h3>Kişisel Hesaplarım:</h3>
+<h3>Hesaplarımda Takibini Alırım:</h3>
 <p align="left">
 <a href="https://discord.com/users/545976310342746152" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
  <a href="https://www.instagram.com/Wonxen.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
