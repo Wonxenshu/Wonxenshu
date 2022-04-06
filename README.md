@@ -10,12 +10,12 @@ Wonxen.findOne({admin: "Wonxen"}, async (hata, data) => {
     if(!data){
   
 const config = {
-  languages: ["JavaScript", "Java", ""]
+  languages: ["JavaScript", "Java", "Sharp"]
 }
 
 
 const wonxendata = new wonxen({
-name: "Emre",
+  name: "Emre",
   age: 18,
   discord_main: "Wonxen#0001 / 545976310342746152",
   languages: config.languages,
