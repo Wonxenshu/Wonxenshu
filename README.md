@@ -10,7 +10,7 @@ Wonxen.findOne({admin: "Wonxen"}, async (hata, data) => {
     if(!data){
   
 const config = {
-  languages: ["JavaScript", "Java", "Sharp"]
+  languages: ["JavaScript", "Sharp"]
 }
 
 
