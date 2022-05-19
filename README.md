@@ -37,9 +37,6 @@ const wonxendata = new wonxen({
 <p align="center">
   <a href="https://github.com/Wonxenshu/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/545976310342746152?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
 
-<h1 align="center">Spotify</h1>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h1 align="center">Spotify da Dinliyorum 🎧</h1>
 
-### Spotify da Dinliyorum 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
