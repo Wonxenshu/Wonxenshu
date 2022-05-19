@@ -39,4 +39,4 @@ const wonxendata = new wonxen({
 
 <h1 align="center">Spotify da Dinliyorum 🎧</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
