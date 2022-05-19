@@ -37,7 +37,7 @@ const wonxendata = new wonxen({
 <p align="center">
   <a href="https://github.com/Wonxenshu/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/545976310342746152?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h1 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h1>
 
 ### Spotify da Dinliyorum 🎧
 
