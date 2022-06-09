@@ -1,4 +1,4 @@
-<h1 align="center">Herkese Merhaba, Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Herkese Merhaba, Ben Wonxen wave</h1>
 <p align="center">Ben Herkes Gibi Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum.<br></p>
 
 ```js
