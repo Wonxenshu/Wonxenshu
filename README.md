@@ -1,4 +1,4 @@
-<h1 align="center">Herkese Merhaba, Ben Wonxen wave</h1>
+<h1 align="center">Herkese Merhaba, Ben Wonxen ✌️ </h1>
 <p align="center">Ben Herkes Gibi Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum.<br></p>
 
 ```js
