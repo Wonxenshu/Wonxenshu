@@ -18,7 +18,7 @@ const Wonxen = {
 ```
 </a>
 </p>
-<h1>Software Languages</h1>
+<h1 align="center">Software Languages</h1>
 <div align="center">
  <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
  <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
