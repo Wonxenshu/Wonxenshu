@@ -5,3 +5,5 @@
  <p align="center">
      <a href="https://github.com/Wonxenshu/"><img src="https://cdn.discordapp.com/attachments/828589873253449838/986544415927574528/wonxen.png"></a>
 </p>
+
+<img align='right' src="https://cdn.discordapp.com/attachments/828589873253449838/990975722791256124/standard_1.gif" width="150">
