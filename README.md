@@ -6,7 +6,7 @@
      <a href="https://github.com/Wonxenshu/"><img src="https://cdn.discordapp.com/attachments/828589873253449838/986544415927574528/wonxen.png"></a>
 </p>
 
-<img align='right' src="https://cdn.discordapp.com/attachments/828589873253449838/990977229519454268/static_1.png" width="150">
+<img align='right' src="https://cdn.discordapp.com/attachments/828589873253449838/990980977838932008/static_2.png" width="100">
 
 ```js
 const Wonxen = {
