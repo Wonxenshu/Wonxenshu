@@ -13,7 +13,7 @@ const Wonxen = {
     Discord:"Wonxen#0001",
     Name: "Emre",
     From: "Türkiye",
-    Languages: ["Javascript","Html","Css","Node.js","C#"],
+    Languages: ["JavaScript","HTML","CSS","C#","MySQL","Node.js"],
 };
 ```
 </a>
